@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pytorch-CycleGAN-and-pix2pix", "pytorch-CycleGAN-and-pix2pix.pyproj", "{5E7D8F74-235D-4DE7-AA64-F1C4500F5995}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E7D8F74-235D-4DE7-AA64-F1C4500F5995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7D8F74-235D-4DE7-AA64-F1C4500F5995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DF2AF42-00E8-454F-88AE-E4EA745F049C}
+	EndGlobalSection
+EndGlobal
